@@ -1,1 +1,1 @@
-# ResolveNow: your platform for online complaints
+# ResolveNow: your platform for online complaints registration
